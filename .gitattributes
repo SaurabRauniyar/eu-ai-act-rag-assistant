@@ -1,0 +1,3 @@
+
+data/processed/*.txt -whitespace
+evaluation/*.md -whitespace

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What are the obligations of providers of high-risk AI systems?",
+    "expected": "Article 16"
+  },
+  {
+    "question": "What are the requirements for human oversight of high-risk AI systems?",
+    "expected": "Article 14"
+  },
+  {
+    "question": "What obligations do deployers of high-risk AI systems have?",
+    "expected": "Article 26"
+  },
+  {
+    "question": "What AI practices are prohibited under the EU AI Act?",
+    "expected": "Article 5"
+  },
+  {
+    "question": "What risk management requirements apply to high-risk AI systems?",
+    "expected": "Article 9"
+  },
+  {
+    "question": "What are the data and data governance requirements for high-risk AI systems?",
+    "expected": "Article 10"
+  },
+  {
+    "question": "What technical documentation is required for high-risk AI systems?",
+    "expected": "Article 11"
+  },
+  {
+    "question": "What record-keeping and logging requirements apply to high-risk AI systems?",
+    "expected": "Article 12"
+  },
+  {
+    "question": "What accuracy, robustness and cybersecurity requirements apply to high-risk AI systems?",
+    "expected": "Article 15"
+  },
+  {
+    "question": "What transparency obligations apply to AI systems that interact with people or generate synthetic content?",
+    "expected": "Article 50"
+  },
+  {
+    "question": "What are the obligations for providers of general-purpose AI models?",
+    "expected": "Article 53"
+  },
+  {
+    "question": "What are the requirements for post-market monitoring of high-risk AI systems?",
+    "expected": "Article 72"
+  }
+]

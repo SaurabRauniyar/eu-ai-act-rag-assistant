@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+src/*backup*.py
+evaluation/rag_evaluation_progress.json
